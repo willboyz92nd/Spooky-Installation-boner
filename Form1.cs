@@ -32,9 +32,9 @@ namespace LizzyInstaller
 
         /// Custom Property garbage here, for simplicitys Sake.
         /// Edit Accordingly to your pleasure.
-        String RepositoryName = "vsomega";
+        String RepositoryName = "andromeda-engine";
         String UserName = "nebulazorua";
-        String PathToMainExe = "VSOmega.exe";
+        String PathToMainExe = "Funkin.exe";
 
 
         /// asd
