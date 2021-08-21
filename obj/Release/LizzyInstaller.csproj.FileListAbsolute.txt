@@ -1,0 +1,10 @@
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\bin\Release\LizzyInstaller.exe.config
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\bin\Release\LizzyInstaller.exe
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\bin\Release\LizzyInstaller.pdb
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.csproj.AssemblyReference.cache
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.MainForm.resources
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.Properties.Resources.resources
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.csproj.GenerateResource.cache
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.exe
+C:\Users\Sonic\OneDrive\Documents\GitHub\Spooky-Installation-boner\obj\Release\LizzyInstaller.pdb
